@@ -39,7 +39,7 @@ def update_stats():
 root = tk.Tk()
 root.title("Network Performance Tool")
 
-# Create Tkinter variables for dynamic content
+# Create Tkinter variables
 latency_result = tk.StringVar()
 ip_address = tk.StringVar()
 devices_count = tk.StringVar()
